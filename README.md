@@ -36,7 +36,7 @@ The project includes:
 ├── code/ # Jupyter notebooks 
 ├── README.md # Documentation 
 
-``## Machine Learning
+## Machine Learning
 
 ### Objective
 Predict the number of squirrels based on:
